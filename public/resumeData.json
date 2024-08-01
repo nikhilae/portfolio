@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Nikhila Etikyala",
+    "occupation": "Software Engineer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "netikyal@gmu.edu",
+    "phone": "+15715876941",
+    "address": {
+      "street": "10231 Evesham Ln",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22030"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nikhila-etikyala-8995561b1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/nikhilae",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "George Mason University",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "Dec 2024"
+      },
+      {
+        "school": "Keshav Memorial Institute of Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Aug 2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "Openprise Technologies",
+        "title": "Software Engineer",
+        "years": "Mar 2022 - Dec 2022",
+        "description": [
+          "Increased data integrity by 60% and reduced data entry errors by 15% by implementing enhanced data models and constraints using Groovy, impacting over 2,000 users.",
+          "Expanded product functionality by 30%, resulting in a 25% user satisfaction increase, by developing a provider similar to Google Mail and Calendar, supporting over 5,000 users.",
+          "Streamlined user registration for Super Admins using SQL, Postman, Groovy, and Grails, leading to a 50% reduction in administrative workload and a 30% increase in user onboarding."
+        ]
+      },
+      {
+        "company": "Cognizant Technology Solutions",
+        "title": "Programmer Analyst Trainee",
+        "years": "Jan 2022 - Mar 2022",
+        "description": [
+          "Enhanced proficiency in Data Structures, Algorithms, and Advanced Java by 90% through focused training, enabling the resolution of complex challenges in projects affecting over 1,000 users.",
+          "Actively engaged in multiple assessments throughout the training program, consistently achieving an average score of 95%."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "React JS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "C/C++",
+        "level": "75%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "Groovy",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BookStore",
+        "category": "",
+        "image": "bookstore.webp",
+        "url": ""
+      },
+      {
+        "title": "Crop Disease Detection",
+        "category": "",
+        "image": "soybean-field.jpg",
+        "url": "https://github.com/nikhilae/Harvest"
+      },
+      {
+        "title": "Patient Monitoring",
+        "category": "",
+        "image": "patient.avif",
+        "url": "https://github.com/nikhilae/Patient-Monitoring-project-using-Java-Websockets"
+      },
+      {
+        "title": "Speech Emotion Recognition",
+        "category": "",
+        "image": "speech.jpg",
+        "url": ""
+      },
+      {
+        "title": "Inventory Managment",
+        "category": "",
+        "image": "inventory.jpg",
+        "url": "https://github.com/nikhilae/Inventory-Management-system-through-CRUD"
+      },
+      {
+        "title": "Epass application",
+        "category": "",
+        "image": "epass.webp",
+        "url": "https://github.com/nikhilae/angular-flask-epass-application"
+      },
+      {
+        "title": "Movie Streaming",
+        "category": "",
+        "image": "movie.avif",
+        "url": "https://github.com/nikhilae/College-Demo-Project-Full-stack-web-developemnt-"
+      }
+    ]
+  }
+}
